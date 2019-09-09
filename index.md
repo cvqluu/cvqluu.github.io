@@ -8,6 +8,6 @@ My interests mainly lie in:
 * Speaker diarization
 
 ##### [My GitHub Profile](https://github.com/cvqluu)
-
+##### [Contact Me](mailto:chau.luu@ed.ac.uk)
 
 
